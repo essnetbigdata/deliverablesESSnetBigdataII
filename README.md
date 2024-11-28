@@ -1,5 +1,17 @@
-# deliverablesESSnetBigdataII
-Deliverrables of the project ESSnet Big Data II
+# Deliverables of the project ESSnet Big Data II
+
+## WPI
+- I1: access_to_mobile_network_data_updated_review
+- I2: Data_Simulator_-_A_simulator_for_network_event_data
+- I3: a_proposed_production_framework_with_mobile_network_data
+- I4: Some_IT_tools_for_the_production_of_official_statistics_with_mobile_network_data
+- I5: First_proposed_standards_and_metadata_for_the_production
+- I6: a_proposal_for_a_statistical_production_process_with_mobile_network_data
+- I7: some_experimental_results_with_mobile_network_data
+- I8:visualisation_tools_for_the_production_of_official_statistcs_with_mobile_network_data
+
+## WPK
+Deliverables of the project ESSnet Big Data II
 - K1: WPK_Deliverable_K1_Quality_Guidelines_First_draft
 - K2: WPK_Deliverable_K2_Updated_literature_overview_with_outside_sources_and_additional_input_from_the_ESSnet
 - K3: WPK_Deliverable_K3_Revised_Version_of_the_Quality_Guidelines_for_the_Acquisition_and_Usage_of_Big_Data_Final_version-2
