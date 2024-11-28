@@ -11,4 +11,4 @@ Deliverrables of the project ESSnet Big Data II
 - K9: WPK_Deliverable_K9_Revised_version_of_the_methodological_report_2020_11_17_Final-2
 - K10: wpk_deliverable_k9_revised_version_of_the_methodological_report_2020_11_17_final
 - K11: wpk_deliverable_k10_report_describing_the_methodological_steps_._2020_11_20_final
-- K12: WPK_Deliverable_K10_Report_describing_the_methodological_steps_..._2020_11_20_Final
+- K12: Revised literature review
